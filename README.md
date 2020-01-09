@@ -18,9 +18,11 @@
 ![图四](https://github.com/qiutianjia/MySQLDDIC/blob/master/demo/Snipaste_4.png)
 
 ### 1. 安装项目
-1. git@github.com:qiutianjia/MySQLDDIC.git
-2. cd MySQLDDIC
-3. composer install
+```shell
+git@github.com:qiutianjia/MySQLDDIC.git  
+cd MySQLDDIC  
+composer install  
+```
 ### 2. 修改配置文件src/Config.php需要导出数据库连接信息
 ```php
 'database' => [
