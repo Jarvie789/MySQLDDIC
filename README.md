@@ -10,9 +10,13 @@
 ------
 ### 0. DEMO
 ![图一](https://github.com/qiutianjia/MySQLDDIC/blob/master/demo/Snipaste_1.png)
+
 ![图二](https://github.com/qiutianjia/MySQLDDIC/blob/master/demo/Snipaste_2.png)
+
 ![图三](https://github.com/qiutianjia/MySQLDDIC/blob/master/demo/Snipaste_3.png)
+
 ![图四](https://github.com/qiutianjia/MySQLDDIC/blob/master/demo/Snipaste_4.png)
+
 ### 1. 使用composer安装项目
 composer install或composer update
 ### 2. 修改配置文件src/Config.php需要导出数据库连接信息
