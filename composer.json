@@ -1,0 +1,16 @@
+{
+	"autoload": {
+		"psr-4": {
+			"QiuTianJia\\MySQLDDIC\\": "src"
+		}
+	},
+	"authors": [{
+        "name": "QiuTianJia",
+        "email": "qiutianjia@yeah.net",
+        "role": "Developer"
+    }],
+	"require": {
+        "php": ">=7.1",
+		"phpoffice/phpspreadsheet": "^1.3"
+    }
+}
